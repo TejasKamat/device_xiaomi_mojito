@@ -316,6 +316,10 @@
          regularly selected color mode will be used if this value is negative. -->
     <integer name="config_accessibilityColorMode">2</integer>
 
+
     <!-- Whether device has fingerprint on power button -->
     <bool name="config_powerButtonFingerprint">true</bool>
+
+    <!-- Do not translate. Default access point SSID used for tethering -->
+    <string name="wifi_tether_configure_ssid_default" translatable="false">RedmiNote10-OctaviOs</string>
 </resources>
