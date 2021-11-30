@@ -1,15 +1,15 @@
 [
  {
-   "repository"  : "device_xiaomi_sm6150-common",
+   "repository"  : "DrTK001/device_xiaomi_sm6150-common",
    "target_path" : "device/xiaomi/sm6150-common",
-   "remote"      : "pixel-devices",
-   "branch"      : "eleven"
+   "remote"      : "origin",
+   "branch"      : "12"
  },
  {
-   "repository"  : "kernel_xiaomi_mojito",
+   "repository"  : "xiaomi-sdm678/android_kernel_xiaomi_mojito",
    "target_path" : "kernel/xiaomi/sm6150",
-   "remote"      : "pixel-devices",
-   "branch"      : "eleven"
+   "remote"      : "origin",
+   "branch"      : "12"
  },
  {
    "repository"  : "vendor_xiaomi_mojito",

@@ -60,6 +60,15 @@ PRODUCT_AAPT_PREF_CONFIG := xhdpi
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 PRODUCT_BUILD_SUPER_PARTITION := false
 
+# OctaviOs stuff
+PRODUCT_BOARD_PLATFORM := sm6150
+PRODUCT_USES_QCOM_HARDWARE := true
+
+# hals
+SRC_AUDIO_HAL_DIR := hardware/qcom-caf/sm6150/audio
+SRC_DISPLAY_HAL_DIR := hardware/qcom-caf/sm6150/display
+SRC_MEDIA_HAL_DIR := hardware/qcom-caf/sm6150/media
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay

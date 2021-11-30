@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_mojito.mk
+    $(LOCAL_DIR)/octavi_mojito.mk
+
+COMMON_LAUNCH_CHOISES =+ \
+    octavi_mojito-user \
+    octavi_mojito-userdebug \
+    octavi_mojito-eng
