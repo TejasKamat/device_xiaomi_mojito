@@ -14,6 +14,7 @@ $(call inherit-product, device/xiaomi/mojito/device.mk)
 # Inherit some common OctaviOs stuff
 $(call inherit-product, vendor/octavi/config/common_full_phone.mk)
 TARGET_FACE_UNLOCK_SUPPORTED := true
+OCTAVI_BUILD_TYPE := Official
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := octavi_mojito
