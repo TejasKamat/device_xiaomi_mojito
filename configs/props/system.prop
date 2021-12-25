@@ -1,3 +1,6 @@
+# AvoidGfxAccel 
+ro.config.avoid_gfx_accel=true
+
 # Charger
 ro.charger.enable_suspend=true
 
