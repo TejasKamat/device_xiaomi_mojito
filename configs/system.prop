@@ -1,0 +1,9 @@
+# Maintainer
+ro.octavi.maintainer=Tejas_Kamat
+
+# OTA
+ro.octavi.display.pid=1655580
+
+# Octavi's props
+ro.octavi.hw.cam=48Mp,8Mp,2Mp,2Mp:13Mp 
+ro.octavi.hw.cpu=SDM678 (11 nm)

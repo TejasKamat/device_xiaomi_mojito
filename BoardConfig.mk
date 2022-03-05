@@ -47,7 +47,8 @@ TARGET_KERNEL_SOURCE := kernel/xiaomi/sm6150
 TARGET_OTA_ASSERT_DEVICE := mojito,sunny
 
 # Properties
-TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/configs/vendor.prop
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/configs/system.prop
 
 # Inherit from sm6150-common
 include device/xiaomi/sm6150-common/BoardConfigCommon.mk
