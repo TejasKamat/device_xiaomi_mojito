@@ -76,10 +76,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Sensor
 TARGET_ENABLE_MULTI_SENSOR := true
 
-# rro_overlays
-PRODUCT_PACKAGES += \
-    MojitoWifiOverlay
-
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
