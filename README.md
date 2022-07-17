@@ -36,4 +36,4 @@ Redmi Note 10 was announced and released in March 2021.
 
 *DOWNLOAD COUNT BY BUILD VERSION*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/device_xiaomi_mojito/evolution_mojito-ota-sq3a.220705.003.a1-07171526-unofficial-unsigned.zip/total.svg)](https://github.com/TejasKamat/device_xiaomi_mojito/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/device_xiaomi_mojito/v6.6/total.svg)](https://github.com/TejasKamat/device_xiaomi_mojito/releases)
