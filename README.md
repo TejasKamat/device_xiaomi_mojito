@@ -27,3 +27,13 @@ Redmi Note 10 was announced and released in March 2021.
 ## Device picture
 
 ![Xiaomi Redmi Note 10](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-11.jpg "Xiaomi Redmi Note 10 in Aqua Green")
+
+### Downloads Counts
+
+*TOTAL*
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/TejasKamat/device_xiaomi_mojito/total.svg)](https://github.com/TejasKamat/device_xiaomi_mojito/releases)
+
+*DOWNLOAD COUNT BY BUILD VERSION*
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/device_xiaomi_mojito/evolution_mojito-07171526-unofficial.zip/total.svg)](https://github.com/TejasKamat/device_xiaomi_mojito/releases)
