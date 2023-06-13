@@ -13,7 +13,7 @@ $(call inherit-product, device/xiaomi/mojito/device.mk)
 
 # Inherit some Evolution X stuffs
 TARGET_SUPPORTS_QUICK_TAP := true
-TARGET_USES_MINI_GAPPS := true
+TARGET_USES_PICO_GAPPS := true
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 # Boot animation
