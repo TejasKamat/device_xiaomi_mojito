@@ -26,4 +26,7 @@ PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 10
 PRODUCT_MANUFACTURER := Xiaomi
 
+#FP
+BUILD_FINGERPRINT := "qti/qssi/qssi:12/SKQ1.210908.001/V14.0.3.0.SKGMIXM:user/release-keys"
+
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
