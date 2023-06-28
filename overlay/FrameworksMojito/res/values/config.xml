@@ -648,4 +648,7 @@
         <item>org.lineageos.aperture</item>
         <item>org.lineageos.aperture.dev</item>
     </string-array>
+
+    <!-- Default value for performant auth feature. -->
+    <bool name="config_performantAuthDefault">true</bool>
 </resources>
