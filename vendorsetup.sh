@@ -8,8 +8,8 @@ clang="prebuilts/clang/host/linux-x86/clang-9342159"
 
 # Clone device dependecies
 clone(){
-	git clone https://gitlab.com/spiceos/android_prebuilts_clang_host_linux-x86_clang-9342159 --depth=1 $clang
-	
+	git clone https://gitlab.com/spiceos/android_prebuilts_clang_host_linux-x86_clang-9597734 --depth=1 $clang
+
 	if [ "depth" -eq 69 ]
 	then
 		git clone https://github.com/TejasKamat/vendor_xiaomi_mojito $vt
