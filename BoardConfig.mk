@@ -128,6 +128,8 @@ TARGET_KERNEL_ADDITIONAL_FLAGS := \
     LLVM=1 \
     LLVM_IAS=1
 
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
+
 # Media
 TARGET_USES_ION := true
 TARGET_DISABLED_UBWC := true
