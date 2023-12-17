@@ -10,7 +10,7 @@ LOCAL_OVERRIDES_PACKAGES += DCMO DevicePolicyPrebuilt DMService Drive
 LOCAL_OVERRIDES_PACKAGES += GCS GoogleCamera
 LOCAL_OVERRIDES_PACKAGES += MaestroPrebuilt Maps MyVerizonServices
 LOCAL_OVERRIDES_PACKAGES += PixelLiveWallpaperPrebuilt Photos PrebuiltGmail
-LOCAL_OVERRIDES_PACKAGES += RecorderPrebuilt
+LOCAL_OVERRIDES_PACKAGES += RecorderPrebuilt PlayAutoInstallConfig
 LOCAL_OVERRIDES_PACKAGES += SafetyHubPrebuilt SCONE ScribePrebuilt Showcase SoundAmplifierPrebuilt SprintDM SprintHM
 LOCAL_OVERRIDES_PACKAGES += Tycho LOCAL_OVERRIDES_PACKAGES += USCCDM
 LOCAL_OVERRIDES_PACKAGES += Videos VZWAPNLib VzwOmaTrigger
