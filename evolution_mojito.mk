@@ -26,7 +26,10 @@ PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 10
 PRODUCT_MANUFACTURER := Xiaomi
 
-#FP
-BUILD_FINGERPRINT := "qti/qssi/qssi:12/SKQ1.210908.001/V14.0.3.0.SKGMIXM:user/release-keys"
-
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRIVATE_BUILD_DESC="mojito-user 12 RKQ1.210614.002 V14.0.8.0.SKGMIXM release-keys"
+
+BUILD_FINGERPRINT := Redmi/mojito/mojito:12/RKQ1.210614.002/V14.0.8.0.SKGMIXM:user/release-keys
